@@ -1,0 +1,8 @@
+nitrogen --restore &
+tint2 &
+udiskie &
+compton &
+nm-applet &
+volumeicon &
+blueberry-tray &
+xbindkeys &
