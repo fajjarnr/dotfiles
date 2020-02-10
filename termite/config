@@ -7,10 +7,10 @@ allow_bold = true
 dynamic_title = true
 urgent_on_bell = true
 clickable_url = true
-font = Fira Code 11
+font = JetBrains Mono 11
 scrollback_lines = 10000
 search_wrap = true
-#icon_name = terminal
+icon_name = terminal
 #geometry = 640x480
 
 # "system", "on" or "off"
@@ -72,7 +72,7 @@ color7 = #a89984
 color15 = #ebdbb2
 
 [hints]
-#font = Fira Code 12
+font = Fira Code 12
 #foreground = #dcdccc
 #background = #3f3f3f
 #active_foreground = #e68080

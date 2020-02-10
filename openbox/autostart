@@ -1,8 +1,8 @@
-nitrogen --restore &
+xset -b
 tint2 &
-udiskie &
-compton &
+nitrogen --restore &
 nm-applet &
-volumeicon &
-blueberry-tray &
-xbindkeys &
+udiskie &
+bluetooth &
+blueman-applet &
+psystray &
