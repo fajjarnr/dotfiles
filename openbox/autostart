@@ -8,3 +8,5 @@ blueman-applet &
 psystray &
 volumeicon &
 picom &
+tlp &
+sh ~/.config/polybar/launch.sh &
