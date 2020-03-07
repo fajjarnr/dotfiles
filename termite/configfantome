@@ -32,12 +32,12 @@ filter_unmatched_urls = true
 #modify_other_keys = false
 
 [colors]
-# hard contrast: background = #141821
- background = #131c26
+# hard contrast: background = #1d2021
+ background = #2f343f
 #background = rgba(40, 40, 40, 1)
 # soft contrast: background = #32302f
-foreground = #a1a8b9
-foreground_bold = #ec0050
+foreground = #ebdbb2
+foreground_bold = #ebdbb2
 
 # dark0 + gray
 color0 = #282828
@@ -69,7 +69,7 @@ color14 = #8ec07c
 
 # light4 + light1
 color7 = #a89984
-color15 = #ec0050
+color15 = #ebdbb2
 
 [hints]
 font = Fira Code 12
