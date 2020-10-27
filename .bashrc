@@ -2,6 +2,8 @@
 # ~/.bashrc
 #
 
+zsh
+
 [[ $- != *i* ]] && return
 
 colors() {
